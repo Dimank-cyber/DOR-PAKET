@@ -1,7 +1,7 @@
 [
     {
         "name": "Masa Aktif 30 Hari",
-        "price": "Rp0",
+        "price": "Rp100",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
         "packages": [
             {
@@ -26,7 +26,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 889750,
+        "overwrite_amount": 100,
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
